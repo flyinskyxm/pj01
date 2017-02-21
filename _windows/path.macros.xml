@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="APICloud" value="C:/mysw/WebStorm 11.0.3/webStorm-APICloud" />
+    <macro name="APICloundWs" value="C:/mysw/WebStorm 11.0.3/APICloudWs" />
+  </component>
+</application>
