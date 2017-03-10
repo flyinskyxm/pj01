@@ -1,0 +1,5 @@
+<keymap version="1" name="Default复制" parent="$default">
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="l" second-keystroke="l" />
+  </action>
+</keymap>
