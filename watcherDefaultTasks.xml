@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/mysw/my/lesson17/app.js" />
+      <option name="program" value="C:/mysw/my/Crawl/yunshare/node_modules/.bin/babel" />
       <option name="scopeName" value="项目文件" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
